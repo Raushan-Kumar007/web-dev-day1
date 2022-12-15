@@ -1,1 +1,64 @@
-# web-dev-day1
+  <table cellspacing="20px">
+            <tr>
+                <td> 
+                     <img src="https://media-exp1.licdn.com/dms/image/D4D03AQEQc72zMDjcaA/profile-displayphoto-shrink_200_200/0/1666554691620?e=1676505600&v=beta&t=fKAJu6NHVpkpGHZPcFA-v8ELehvKFPMtaFMF-S626PM" alt="Raushan Profile Picture">
+                </td>
+                <td>
+                    <h1>Raushan kumar</h1>
+                     <p><em>Btech CSE student at</em><strong><a href="https://www.lpu.in/"> Lovely Professional University</a></strong>.</p>
+                     <p>I am a 3rd year Student of Btech CSE , I know java , Html , Css, Javascript , Sql , Datastructure Algorithm. I love coding,watching hindi movi.</p>
+                </td>
+            </tr>
+        </table>
+          <hr>
+        <h3>My Education</h3>
+        <ul>
+            <li><strong>Graduation:</strong><p>Lovely Professional University Punjab</p></li>
+            <li><strong>Class 10th:</strong><p>Public School Darbhanga (Bihar)</p></li>
+            <li><strong>Class 12th:</strong><p>Public School Darbhnaga (Bihar)</p></li>
+        </ul>
+        <hr>
+         <h3>Work Experience</h3>
+        <Table cellspacing="20px">
+            <tr>
+                <td>2020-2023</td>
+                <td>Learning Skills</td>
+            </tr>
+            <tr>
+                <td>2024</td>
+                <td>Software Engineer</td>
+            </tr>
+        </Table>
+        <hr>
+         <h3>Skills</h3>
+        <table>
+           <tr>
+            <td>Java</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+           </tr>
+           <tr>
+            <td>Sql</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+           </tr>
+           <tr>
+            <td>Javascript</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+           </tr>
+           <tr>
+            <td>Html</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+           </tr>
+           <tr>
+            <td>css</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+           </tr>
+        </table>
+         <hr>
+        <h3>My Hobbies</h3>
+        <ol>
+            <li>Fitness</li>
+            <li>Painting</li>
+            <li>Playing Cricket</li>
+        </ol>
+        <hr>
+        <h3><a href="Contactme.html">Contact me</a></h3>
